@@ -1,2 +1,1 @@
-# cvd-ml-classify
-This pertains to a machine learning based cardio vascular disease (CVD) prediction model that essentially gives us the best model among KNN, NB, XGB, CatBoost, SVM and MLP for the prediction of heart disease for a given dataset
+This involves a machine learning-based cardiovascular disease (CVD) prediction model that identifies the most effective algorithm among KNN, Naive Bayes, XGBoost, CatBoost, SVM, and MLP for predicting heart disease using a specific dataset.
